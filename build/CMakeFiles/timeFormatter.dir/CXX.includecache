@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sb18/my-repos/timeFormatter/timeFormatter.cpp
+sys/time.h
+-
+timeFormatter.h
+/home/sb18/my-repos/timeFormatter/timeFormatter.h
+
+/home/sb18/my-repos/timeFormatter/timeFormatter.h
+string
+-
+

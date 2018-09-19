@@ -1,0 +1,7 @@
+/home/sb18/my-repos/timeFormatter/build/CMakeFiles/install/strip.dir
+/home/sb18/my-repos/timeFormatter/build/CMakeFiles/install/local.dir
+/home/sb18/my-repos/timeFormatter/build/CMakeFiles/timeFormatter.dir
+/home/sb18/my-repos/timeFormatter/build/CMakeFiles/edit_cache.dir
+/home/sb18/my-repos/timeFormatter/build/CMakeFiles/rebuild_cache.dir
+/home/sb18/my-repos/timeFormatter/build/CMakeFiles/install.dir
+/home/sb18/my-repos/timeFormatter/build/CMakeFiles/list_install_components.dir

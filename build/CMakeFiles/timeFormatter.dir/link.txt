@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtimeFormatter.a  CMakeFiles/timeFormatter.dir/timeFormatter.cpp.o
+/usr/bin/ranlib libtimeFormatter.a
